@@ -2,25 +2,158 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-732c149e9a93166f6d048729682b860d6deb0549.jar" />
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-92135ea1edd2aca1506dc6ffcccc70ba50be7313.jar" />
     </item>
     <item
-        jar="C:\Users\SnsPlusVN_05\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-35e7fdb6ce8410ee06f2aa9cefb15c7521760df9.jar" />
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-b525c105c5e1002754e9fa901089d0a2f32e2d0f.jar" />
     </item>
     <item
-        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-bf36d5d0558cda6dccb86c0c6382fb648877f341.jar" />
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-f9623e2ac551d2f698c2d3e9d8461c375c3a919a.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-94b2b7ab7bd4d6b0631cb8110c99493e919c4adb.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-6c36d082ce290d2506beb436dadf9dbee9c134bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-e56f12c67b38d562f5b29294e7cfe84f846a2dcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-246c35141df3b80f4a3e0cd4dc3d0ce71cdbe92d.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-d53839e41b3f179679211f7017e606e596fe7033.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-9f2b4573ae46d7ea061016a5401409cb0c530cbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-8dc28fd92d459205d39354df78918608110f8b38.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-db42fe50bbb6496d0fdd7a4886907b20b4366a2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-d93baf81b5dc9af45610d014837cba88cc095710.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-54c8547874e4c48825361a57e28f93e702247114.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-110a3c22dff19429d7551178873446e9924db688.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-81be8fb4c046088a929dbe458e225b46411ace81.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-f504e27ff8161d15133746e50017b31d29b417a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-973378addd58e0bfacf9f5b0d3fde279cd1e1807.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d72a155f60c4b253ab8149f0b7ce329de1b839db.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-ddbe23e6ca0de1e07c74c3a1493ad6c78998f460.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-1e26eb1efe9afe3b3fbf52e722bd708852cd2185.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-fd205cb9a3dba3893bda903df2e3847a99c94e42.jar" />
+    </item>
+    <item
+        jar="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\SnsPlusVN_05\Desktop\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-a03448311decb71a68b1cf0c65587bc697375f32.jar" />
     </item>
 
 </items>
